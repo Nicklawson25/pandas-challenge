@@ -1,0 +1,41 @@
+Written Analysis
+Summary of the Analysis
+This analysis involves examining the performance metrics of schools within a district to understand the overall educational outcomes and draw comparisons between different types of schools. The datasets used include detailed information about schools and students, such as budget, size, and academic performance. The analysis focuses on several key metrics including the total number of schools, total students, total budget, average math and reading scores, and the percentage of students passing math, reading, and overall. Additionally, the performance is analyzed based on school spending, school size, and school type (charter vs. district).
+Key Metrics
+1.	Total Schools: 15
+2.	Total Students: 39,170
+3.	Total Budget: $24,649,428
+4.	Average Math Score: 78.99
+5.	Average Reading Score: 81.88
+6.	% Passing Math: 74.98%
+7.	% Passing Reading: 85.81%
+8.	% Overall Passing: 65.17%
+Highest-Performing Schools
+The top five schools by overall passing percentage are:
+1.	Cabrera High School
+2.	Thomas High School
+3.	Griffin High School
+4.	Wilson High School
+5.	Pena High School
+Lowest-Performing Schools
+The bottom five schools by overall passing percentage are:
+1.	Rodriguez High School
+2.	Figueroa High School
+3.	Huang High School
+4.	Hernandez High School
+5.	Johnson High School
+Math and Reading Scores by Grade
+The analysis shows the average math and reading scores for each grade (9th, 10th, 11th, 12th) across all schools, providing insight into academic performance at different educational stages.
+Spending and Performance
+Schools are categorized into spending ranges per student to evaluate if higher spending correlates with better academic performance. The analysis reveals the following spending categories:
+•	<$585
+•	$585-630
+•	$630-645
+•	$645-680
+School Size and Performance
+Schools are categorized by size (Small, Medium, Large) to analyze the impact of school size on academic performance.
+School Type and Performance
+The performance of charter schools is compared to district schools to understand how school type influences educational outcomes.
+Conclusions and Comparisons
+1.	Charter Schools vs. District Schools: The analysis reveals that charter schools generally outperform district schools across multiple metrics. Charter schools have higher average math and reading scores, and a significantly higher percentage of students passing both subjects. For instance, the average overall passing rate for charter schools is 90.43%, compared to 53.67% for district schools. This suggests that charter schools may offer more effective educational environments, possibly due to smaller class sizes, specialized curriculums, and greater operational flexibility.
+2.	Spending and Performance: An interesting observation is that higher per-student spending does not necessarily equate to better academic performance. Some of the highest-performing schools fall into the lower spending categories. For example, schools spending less than $585 per student have an average overall passing rate of 90.37%, while schools in the highest spending category ($645-680) have an overall passing rate of only 53.53%. This indicates that factors other than financial investment, such as teaching quality, school leadership, and community involvement, play critical roles in determining student success.
